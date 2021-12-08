@@ -1,4 +1,4 @@
-name: voila-hello-world-example
+name: dashboard
 channels:
 - conda-forge
 dependencies:

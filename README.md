@@ -1,12 +1,3 @@
-# hello world example
-
-Hello World application to get started building interactive dashboards with voila.
-
-This example uses a conda `environment.yml` file to list the dependencies.
-
-For an example using `requirements.txt`, you can check [render-stl](https://github.com/voila-gallery/render-stl) or [gaussian-density](https://github.com/voila-gallery/gaussian-density).
-
-
 ## Local Setup
 
 
@@ -14,13 +5,12 @@ To test the application locally:
 
 ```bash
 conda env create
-conda activate voila-gallery-hello-world-example
+conda activate dashboard
 
-voila app.ipynb
+Radiation.ipynb
 ```
 
-This will open a new browser tab at [http://localhost:8866](http://localhost:8866) serving the dashboard.
-
+This will open a new browser tab at [http://localhost:8891/lab/tree/radiation/Radiation.ipynb] serving the dashboard
 
 ## Testing on Binder
 
