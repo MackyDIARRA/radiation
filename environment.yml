@@ -2,7 +2,7 @@ name: dashboard
 channels:
 - conda-forge
 dependencies:
-- ipywidgets=7.5
+- ipywidgets=7.6.0
 - pandas=0.24.2
 - voila 
 - ipyleaflet=0.15.0
